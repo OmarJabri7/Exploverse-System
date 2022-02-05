@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>var slider = document.getElementById("nft_nbr");
+    var output = document.getElementById("demo");
+    output.innerHTML = slider.value; // Display the default slider value
+    
+    // Update the current slider value (each time you drag the slider handle)
+    slider.oninput = function() {
+      output.innerHTML = this.value;
+    }</script>
+<h3>
+  NFT Explorer minting
+  </h3>
+  <body>
+  <form method="post" action="/">
+    <input type="submit" value="Mint NFT" name="mint" id = "mint_fn"/>
+    <div>
+    <input name = "nfts_range" value="1" id="nft_nbr">
+    <label for="nft_nbr">Number of NFTs</label>
+    </div>
+    <p></p>
+    <input type = "submit" value="Deploy Contract" name = "deploy" id="deploy_fn"/>
+    <div>
+      <input name = "base_uri" value="" id="base_uri">
+      <label for="base_uri">Insert hash of pinata json</label>
+      </div>
+    <input type = "submit" value="Set Base URI" name = "set_base_uri" id="set_base_uri_fn"/>
+    <input type = "submit" value="Withdraw" name = "withdraw" id="withdraw_fn"/>
+    <input type = "submit" value="Reset" name = "reset" id="reset_fn"/>
+    <input type = "submit" value="Reveal" name = "reveal" id="reveal_fn"/>
+    <input type = "submit" value="Hide" name = "hide" id="hide_fn"/>
+  </form>
+  <!-- <div class="slidecontainer">
+  </div>
+  <div class="open_grepper_editor" title="Edit & Save To Grepper"></div> -->
+</body>
+</h3>
+</head>
+</html>

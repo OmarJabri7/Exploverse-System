@@ -1,0 +1,10 @@
+{
+  "backgrounds": 1,
+  "main_body": 2,
+  "body": 3,
+  "face": 4,
+  "helmet": 5,
+  "hand": 6,
+  "sea_star": 7,
+  "lights": 8
+}

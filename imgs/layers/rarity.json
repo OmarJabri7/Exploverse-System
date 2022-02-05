@@ -1,0 +1,67 @@
+{
+  "helmet": {
+    "crown_gold": 10,
+    "crown_silver": 6,
+    "sea_captain_hat": 1,
+    "pirate_hat": 13,
+    "small_octopus": 4,
+    "air_valve_rustic_bronze": 2,
+    "air_valve_silver": 5,
+    "sailor_hat": 15,
+    "air_valve_bronze": 19,
+    "air_valve_rustic_silver": 12,
+    "crown_bronze": 6,
+    "seaweed": 12,
+    "air_valve_rustic_gold": 5,
+    "air_valve_gold": 19
+  },
+  "hand": {
+    "parrot": 15,
+    "pirate_knife": 13,
+    "torch": 5,
+    "trident_silver": 1,
+    "king_spectre_silver": 5,
+    "trident_bronze": 17,
+    "pirate_hook": 1,
+    "cigar": 7,
+    "king_spectre_bronze": 1,
+    "trident_gold": 13,
+    "king_spectre_gold": 4,
+    "harpoon": 1
+  },
+  "face": {
+    "face_mask_rustic_bronze": 11,
+    "laser": 15,
+    "face_mask_silver": 13,
+    "face_mask_rustic_gold": 2,
+    "face_mask_bronze": 12,
+    "sea_star": 1,
+    "pirate_face": 17,
+    "face_mask_gold": 1,
+    "face_mask_rustic_silver": 12
+  },
+  "body": {
+    "crab_badge": 18,
+    "sailor_shirt": 6,
+    "pirate_shirt": 9,
+    "shark_badge": 10,
+    "medusa_badge": 8,
+    "squid_badge": 2,
+    "sea_captain_suit": 14
+  },
+  "backgrounds": {
+    "dark_aquamarine_background": 8,
+    "dark_blue_background": 4,
+    "aquamarine_background": 5,
+    "ochre_background": 4,
+    "grey_background": 14
+  },
+  "main_body": {
+    "main_body_rustic_blue_silver": 15,
+    "main_body_black_gold": 13,
+    "main_body_blue_silver": 6,
+    "main_body_brown_bronze": 15,
+    "main_body_rustic_black_gold": 2,
+    "main_body_rustic_brown_bronze": 15
+  }
+}
